@@ -17,6 +17,13 @@ Three pie charts:
   - % of Total Drivers by City Type
   
   
- # Inspiring Visualizations
+ # Analysis
+  - Roughly 70% of all rides and total fare value come from Urban riders.
+  - Rural riders tend to take significantly higher cost, although fewer, trips than Urban or Suburban riders.
+  - While comprising of roughly 35% of all rides and fares, Suburban and Rural cities afford only 22% of Pyber's total driver population. 
+ 
+ 
+ #Visualizations
+ ![Pyber Ride Sharing Data](/analysis/Fig1.png)
  
  
