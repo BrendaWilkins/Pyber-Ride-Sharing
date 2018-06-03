@@ -25,6 +25,8 @@ Three pie charts:
  
  # Visualizations
  
- ![Pyber Ride Sharing Data](/analysis/Fig1.png)
+ ![Pyber Ride Sharing Data]
+ 
+ (/analysis/Fig1.png)
  
  
