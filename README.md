@@ -23,7 +23,8 @@ Three pie charts:
   - While comprising of roughly 35% of all rides and fares, Suburban and Rural cities afford only 22% of Pyber's total driver population. 
  
  
- #Visualizations
+ # Visualizations
+ 
  ![Pyber Ride Sharing Data](/analysis/Fig1.png)
  
  
