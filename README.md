@@ -25,8 +25,19 @@ Three pie charts:
  
  # Visualizations
  
- ![Pyber Ride Sharing Data]
+ Pyber Ride Sharing Data:
+ ![Pyber Ride Sharing Data](/analysis/Fig1.png)
  
- (/analysis/Fig1.png)
+ % of Total Fares by City Type:
+ ![% of Total Fares by City Type](/analysis/Fig2.png)
+ 
+  % of Total Rides by City Type:
+ ![% of Total Rides by City Type](/analysis/Fig3.png)
+
+  % of Total Drivers by City Type:
+ ![% of Total Drivers by City Type](/analysis/Fig4.png)
  
  
+ 
+Copyright
+Coding Boot Camp (C) 2016. All Rights Reserved.
